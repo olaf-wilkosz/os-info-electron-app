@@ -12,6 +12,7 @@ function main() {
     },
     width: 300,
     height: 300,
+    autoHideMenuBar: true,
   })
 
   // load app/index.html as the window content
