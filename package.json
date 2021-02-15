@@ -2,7 +2,7 @@
   "name": "os-info-electron-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/olaf-wilkosz/os-info-electron-app/issues"
   },
-  "homepage": "https://github.com/olaf-wilkosz/os-info-electron-app#readme"
+  "homepage": "https://github.com/olaf-wilkosz/os-info-electron-app#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
 }
